@@ -5,6 +5,7 @@
 	<meta charset="utf-8">
 </head>
 <body>
-	<h1>Welcom to website</h1>
+	<h1><a href="UNESCO.html"></h1>
+	<h1><a href="Gallery part I.html"></h1>
 </body>
 </html>
